@@ -1,0 +1,53 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+.header {
+    background-color: #7B68EE;
+
+}
+.name {
+    text-align: left;
+    color: white;
+    text-shadow: 1.5px 0 1.5px black, 0 1.5px 1.5px black, -1.5px 0 1.5px black, 0 -1.5px 1.5px black;
+    font-family: Calibri;
+    line-height: 120%;
+    font-size: 70px;
+    margin-left: 5%;
+    margin-right: 5%;
+    display: inline;
+}
+.desc {
+    color: blueviolet;
+    text-shadow: 1.5px 0 1.5px black, 0 1.5px 1.5px black, -1.5px 0 1.5px black, 0 -1.5px 1.5px black;
+    font-family: Calibri;
+    line-height: 120%;
+    font-size: 40px;
+}
+.button {
+    text-shadow: 1px 0 1px black, 0 1px 1px black, -1px 0 1px black, 0 -1px 1px black;
+    background-color: white;
+    color: blueviolet;
+    padding: 10px;
+    font-size: 20px;
+    border: none;
+    top: 20px;
+    right: 3%;
+}
+.log {
+    right: 20%;
+}
