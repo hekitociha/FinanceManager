@@ -15,14 +15,14 @@ html {
 
 body {
     margin-bottom: 60px;
+    background-color: #7B68EE;
 }
 .header {
     background-color: #7B68EE;
-
 }
 .name {
     text-align: left;
-    color: white;
+    color: #DB7093;
     text-shadow: 1.5px 0 1.5px black, 0 1.5px 1.5px black, -1.5px 0 1.5px black, 0 -1.5px 1.5px black;
     font-family: Calibri;
     line-height: 120%;
@@ -32,7 +32,7 @@ body {
     display: inline;
 }
 .desc {
-    color: blueviolet;
+    color: #DB7093;
     text-shadow: 1.5px 0 1.5px black, 0 1.5px 1.5px black, -1.5px 0 1.5px black, 0 -1.5px 1.5px black;
     font-family: Calibri;
     line-height: 120%;
