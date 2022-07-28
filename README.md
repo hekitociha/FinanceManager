@@ -1,7 +1,6 @@
 # FinanceManager
 Финансовый манагер, который помогает Вам вести учет доходов и расходов
 
-[Ссылка](https://hekitociha.github.io/FinanceManager/)
 
 
 # Getting Started with Create React App
